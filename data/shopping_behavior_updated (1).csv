@@ -1,0 +1,29 @@
+Customer ID,Age,Gender,Purchase Amount (USD),Location,Season,Shipping Type,Discount Applied,Promo Code Used,Previous Purchases,Payment Method,Category,Subscription Status,Review Rating
+1,28,Female,64.32,New York,Winter,Standard,No,No,3,Debit Card,Clothing,No,4
+2,34,Male,117.45,California,Summer,Express,Yes,Yes,7,PayPal,Electronics,Yes,5
+3,45,Female,82.17,Texas,Fall,Next Day,No,No,2,Credit Card,Home,No,3
+4,22,Male,95.63,Florida,Spring,Store Pickup,Yes,Yes,5,Venmo,Beauty,Yes,4
+5,39,Female,56.89,Illinois,Winter,Standard,No,No,1,Debit Card,Sports,No,2
+6,31,Male,132.75,Pennsylvania,Summer,Express,Yes,Yes,9,Credit Card,Electronics,Yes,5
+7,27,Female,73.21,Ohio,Fall,Next Day,No,No,4,PayPal,Clothing,No,3
+8,41,Male,88.47,Georgia,Spring,Store Pickup,Yes,Yes,6,Debit Card,Home,Yes,4
+9,24,Female,112.33,North Carolina,Winter,Standard,No,No,2,Venmo,Beauty,No,5
+10,36,Male,67.58,Michigan,Summer,Express,Yes,Yes,8,Credit Card,Sports,Yes,3
+11,29,Female,91.25,New York,Fall,Next Day,No,No,3,PayPal,Clothing,No,4
+12,43,Male,105.67,California,Spring,Store Pickup,Yes,Yes,7,Debit Card,Electronics,Yes,5
+13,26,Female,78.94,Texas,Winter,Standard,No,No,1,Credit Card,Home,No,2
+14,33,Male,124.38,Florida,Summer,Express,Yes,Yes,5,Venmo,Beauty,Yes,4
+15,48,Female,59.72,Illinois,Fall,Next Day,No,No,9,PayPal,Sports,No,3
+16,30,Male,84.16,Pennsylvania,Spring,Store Pickup,Yes,Yes,4,Debit Card,Clothing,Yes,5
+17,25,Female,97.53,Ohio,Winter,Standard,No,No,2,Credit Card,Electronics,No,4
+18,37,Male,71.89,Georgia,Summer,Express,Yes,Yes,6,Venmo,Home,Yes,3
+19,42,Female,108.24,North Carolina,Fall,Next Day,No,No,8,PayPal,Beauty,No,5
+20,23,Male,62.77,Michigan,Spring,Store Pickup,Yes,Yes,3,Debit Card,Sports,Yes,2
+21,35,Female,89.46,New York,Summer,Standard,No,No,7,Credit Card,Clothing,No,4
+22,44,Male,116.33,California,Winter,Express,Yes,Yes,5,Venmo,Electronics,Yes,5
+23,27,Female,76.58,Texas,Spring,Next Day,No,No,1,PayPal,Home,No,3
+24,32,Male,101.92,Florida,Fall,Store Pickup,Yes,Yes,9,Debit Card,Beauty,Yes,4
+25,47,Female,68.15,Illinois,Summer,Standard,No,No,4,Credit Card,Sports,No,2
+26,29,Male,93.74,Pennsylvania,Wintermm,Express,Yes,Yes,2,Venmo,Clothing,Yes,5
+27,38,Female,112.87,Ohio,Spring,Next Day,No,No,6,PayPal,Electronics,No,4
+28,41,Male,79.23,Georgia,Fall,Store Pickup,Yes,Yes,8,Debit Card,Home,Yes,3
