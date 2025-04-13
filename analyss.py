@@ -8,6 +8,7 @@ import logging
 import os
 from flask_cors import CORS
 from dotenv import load_dotenv
+import sys
 
 # Load environment variables
 load_dotenv()
@@ -29,7 +30,7 @@ DB_NAME = os.getenv("DB_NAME", "analytics_db")
 client = MongoClient(MONGO_URI)
 db = client[DB_NAME]
 
-
+print(f"Python version: {sys.version}")
 def load_data(market_id=None):
     """Load data from MongoDB and convert to DataFrame"""
     try:
